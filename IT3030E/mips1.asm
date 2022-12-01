@@ -1,3 +1,6 @@
+##
+## input/output, conditionals, loop
+##
 
 li $v0, 5
 syscall
